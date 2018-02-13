@@ -1,0 +1,18 @@
+.img{
+	height:400px;width:400px;
+	border: 4px solid black ;
+}
+.l1{
+	
+	font-family: helvetica;
+	color:black;
+	font-size: 60px;
+	padding-left:80px;
+}
+.l2{
+	
+	font-family: helvetica;
+	color:black;
+	font-size: 60px;
+	padding-left:40px;
+}

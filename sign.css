@@ -1,0 +1,52 @@
+.body{
+	background-color:#ffb84d;
+
+}
+.div{
+	font-family:italic;
+	font-size: 15px;
+}
+.t1{
+	
+}
+.cate{
+	margin-left:10px;
+	padding-left: 10px;
+}
+.img1{
+	margin:10px;
+}
+#r1{
+	
+	border-image-width: 20px;
+}
+#h2{
+	text-align: center;
+	
+	font-family: italic;
+}
+.image{
+	width:200px;height:200px;
+}
+.navbar-nav > li >a{
+  color:black;
+  font-size:30px;
+}
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+.body{
+	margin-left: 20px;margin-right: 20px;
+}
+input[type="radio"] {
+    -ms-transform: scale(2.0); /* IE 9 */
+    -webkit-transform: scale(2.0); /* Chrome, Safari, Opera */
+    transform: scale(2.0);
+}
+.val_error{
+	color:#FF1F1F;
+}
+
+
+
